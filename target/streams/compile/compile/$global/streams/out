@@ -1,0 +1,16 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\mariam\Projects\ScalaProjects\hello-world\src\main\scala\Main.scala:1:12: object scalatest is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.scalatest._[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\mariam\Projects\ScalaProjects\hello-world\src\main\scala\Main.scala:2:8: not found: object Matchers[0m
+[0m[[0m[31merror[0m] [0m[0mimport Matchers._[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\mariam\Projects\ScalaProjects\hello-world\src\main\scala\Main.scala:15:14: value should is not a member of String[0m
+[0m[[0m[31merror[0m] [0m[0m	aClass.name should be(Gandalf)[0m
+[0m[[0m[31merror[0m] [0m[0m	            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\mariam\Projects\ScalaProjects\hello-world\src\main\scala\Main.scala:15:21: not found: value be[0m
+[0m[[0m[31merror[0m] [0m[0m	aClass.name should be(Gandalf)[0m
+[0m[[0m[31merror[0m] [0m[0m	                   ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\mariam\Projects\ScalaProjects\hello-world\src\main\scala\Main.scala:15:24: not found: value Gandalf[0m
+[0m[[0m[31merror[0m] [0m[0m	aClass.name should be(Gandalf)[0m
+[0m[[0m[31merror[0m] [0m[0m	                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m5 errors found[0m
